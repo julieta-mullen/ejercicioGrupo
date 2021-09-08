@@ -1,0 +1,1 @@
+Per esempio, se ha bisogno di generare il testo da tre paragrafi su cinque offerte in tutti, è necessario concludere che =lorem (3,5) e premere Entrano, poi nel documento ci sarà un testo di Lorem ipsum della lunghezza di serie.
